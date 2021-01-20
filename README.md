@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I'm a Full-Stack Developer working in Finland.
+I'm a Full-Stack Web Developer working in Finland.
 
 ### BIO
-
-- Working from home, like everyone
-- Web development and Cloud is fun
+- Currently working on my API template here on Github
 - I use daily: `.cs`, `.js`, `.ts`, `.json`, `.yaml`,
-- Currently learning more about Docker
+- Currently learning more about Azure Function API architectures
 
 ### Tech stack
 
