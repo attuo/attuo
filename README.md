@@ -5,7 +5,7 @@ I'm a Full-Stack Web Developer working in Finland.
 ### BIO
 - Currently working on my API template here on Github
 - I use daily: `.cs`, `.js`, `.ts`, `.json`, `.yaml`,
-- Currently learning more about Azure Function API architectures
+- Currently learning more about API architectures with Azure Functions 
 
 ### Tech stack
 
